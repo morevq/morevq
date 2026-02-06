@@ -38,7 +38,7 @@ from idea to delivery.
 ---
 
 ### ❄️ Outside of code
-- Reached Elbrus saddle (5,300 m out of 5,642 m) - resilience and long-term goal focus  
+- Reached Elbrus saddle (5,300 m out of 5,642 m)
 - Snowboarding, traveling, and exploring new technologies  
 
 ---
