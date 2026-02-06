@@ -20,6 +20,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           THEME: ayu_mirage
         with:
-          USERNAME: morevq
-          BRANCH_NAME: main
-          AUTO_PUSH: true
+           USERNAME: morevq
+           BRANCH_NAME: main
+           UTC_OFFSET: 3
+           AUTO_PUSH: true
