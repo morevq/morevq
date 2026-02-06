@@ -1,20 +1,29 @@
 ## Hi there, my name is Zhenya! 👋
 
-### ✨ About me:
-- 🌍 I am from Moscow, Russia <br />
-- 👨‍💻 Member of Microsoft Learn Student Ambassadors program (2021-2023) <br />
-- 🎓 I study at the [MIREA](https://english.mirea.ru/) <br />
-- 🧩 Participant in the programs: [Samsung IT-School](https://innovationcampus.ru/itschool/) (2021-2022), [School of Programmers](https://informatics.ru/) (2020-2023) <br />
-- ✏ Manager of projects of the [WASP-Academy](https://sa-academy.tilda.ws) (2021-2023) <br />
-- ❄️I like snowboarding<br/>
-- 🏔️I reached the saddle of Elbrus (5,300 out of 5,642 meters)
+### ✨ About me
+- 🌍 I’m from Moscow, Russia
+- 👨‍💻 Member of Microsoft Learn Student Ambassadors program (2021–2023)
+- 🎓 I study at RTU MIREA
+- 🧩 Participant in programs:
+  - Samsung IT-School (2021–2022)
+  - School of Programmers (2020–2023)
+- ✏ Project manager at WASP-Academy (2021–2023)
+- ❄️ I like snowboarding
+- 🏔️ Reached Elbrus saddle (5,300 m out of 5,642 m)
 
-### ✨ Connect with me:
-- [Telegram](https://telegram.me/morevq)
-- [Instagram](https://www.instagram.com/morevq)
+---
 
-### ✨ Statistics:
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=morevq&layout=compact&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats) <br /> 
-[![](http://github-readme-streak-stats.herokuapp.com?user=morevq&theme=ayu-mirage&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) <br /> 
+### ✨ Connect with me
+- 💬 [Telegram](https://telegram.me/morevq)
+- 📸 [Instagram](https://www.instagram.com/morevq)
 
-![snake gif](https://github.com/morevq/morevq/blob/output/github-snake-dark.svg)
+---
+
+### ✨ Statistics
+
+| | |
+|---|---|
+| ![](./profile-summary-card-output/ayu_mirage/0-profile-details.svg) | ![](./profile-summary-card-output/ayu_mirage/1-repos-per-language.svg) |
+---
+
+![snake gif](https://raw.githubusercontent.com/morevq/morevq/output/github-snake-dark.svg)
