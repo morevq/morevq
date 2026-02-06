@@ -21,24 +21,24 @@ from idea to delivery.
 ---
 
 ### 🚀 Experience & programs
-**C++ Instructor — Moscow School of Programmers (2024–2026)**  
+**C++ Instructor - Moscow School of Programmers (2024–2026)**  
 - Weekly classes on C++ and computer networks  
 - Mentored student teams during hackathons  
 
-**Team Manager — WASP Academy (Volunteer, 2021–2023)**  
+**Team Manager - WASP Academy (Volunteer, 2021–2023)**  
 - Led weekly project meetings with student teams  
 - Supported project planning and development processes  
 
 **Education & Programs**
-- RTU MIREA — Bachelor’s Degree (2023–2027)  
-- Moscow School of Programmers — C++ track  
+- RTU MIREA - Bachelor’s Degree (2023–2027)  
+- Moscow School of Programmers - C++ track  
 - Microsoft Learn Student Ambassadors Academy  
 - CROC Leadership Program  
 
 ---
 
 ### ❄️ Outside of code
-- Reached Elbrus saddle (5,300 m out of 5,642 m) — resilience and long-term goal focus  
+- Reached Elbrus saddle (5,300 m out of 5,642 m) - resilience and long-term goal focus  
 - Snowboarding, traveling, and exploring new technologies  
 
 ---
