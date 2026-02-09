@@ -12,14 +12,6 @@ from idea to delivery.
 - 🌍 Based in Moscow, open to remote opportunities
 ---
 
-### 🛠 Tech stack
-- **Languages:** C++, Go  
-- **Backend:** REST API (Crow), PostgreSQL, MongoDB  
-- **Tools:** CMake, vcpkg, Docker, Git  
-- **Other:** SQL, noSQL (Redis, MongoDB), CLI tools
-  
----
-
 ### 🚀 Experience & programs
 **C++ Instructor - Moscow School of Programmers (2024–2026)**  
 - Weekly classes on C++ and computer networks  
