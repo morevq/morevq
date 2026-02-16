@@ -10,22 +10,24 @@ from idea to delivery.
 - 🎓 Bachelor student at **RTU MIREA**
 - 👩‍🏫 Experience teaching **C++** and **Computer Networks**
 - 🌍 Based in Moscow, open to remote opportunities
+
 ---
 
-### 🚀 Experience & programs
-**C++ Instructor - Moscow School of Programmers (2024–2026)**  
-- Weekly classes on C++ and computer networks  
-- Mentored student teams during hackathons  
+<details>
+<summary><h3>🚀 Experience & Programs</h3> <i>(click to expand)</i></summary>
 
-**Team Manager - WASP Academy (Volunteer, 2021–2023)**  
-- Led weekly project meetings with student teams  
-- Supported project planning and development processes  
+#### **C++ Instructor** — [Moscow School of Programmers](https://informatics.ru) (2024–2026)
+- Weekly classes on C++ and computer networks.
+- Mentored student teams during hackathons.
 
-**Education & Programs**
-- RTU MIREA - Bachelor’s Degree (2023–2027)  
-- Moscow School of Programmers - C++ track  
-- Microsoft Learn Student Ambassadors Academy  
-- CROC Leadership Program  
+#### **Team Manager** — WASP Academy (Volunteer, 2021–2023)
+- Led weekly project meetings with student teams.
+
+#### Education & Programs
+- **RTU MIREA** — Bachelor’s Degree (2023–2027)
+- **Microsoft Learn Student Ambassador**
+- **CROC Leadership Program**
+</details>
 
 ---
 
