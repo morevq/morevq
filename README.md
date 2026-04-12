@@ -5,7 +5,7 @@ from idea to delivery.
 
 
 ### ✨ About me
-- 💻 Backend developer focused on **C++**
+- 💻 Yandex backend developer focused on **C++**
 - 🎓 Bachelor student at **RTU MIREA**
 - 👩‍🏫 Experience teaching **C++** and **Computer Networks**
 - 🌍 Based in Moscow, open to remote opportunities
@@ -14,7 +14,7 @@ from idea to delivery.
 <details>
 <summary><h3>🚀 Experience & Programs</h3> <i>(click to expand)</i></summary>
 
-#### **C++ Instructor** — [Moscow School of Programmers](https://informatics.ru) (2024–2026)
+#### **C++ Teacher** — [Moscow School of Programmers](https://informatics.ru) (2024–2026)
 - Weekly classes on C++ and computer networks.
 - Mentored student teams during hackathons.
 
